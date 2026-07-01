@@ -1,3 +1,0 @@
-# Numbers-to-Neurons
-Stamatics
-
